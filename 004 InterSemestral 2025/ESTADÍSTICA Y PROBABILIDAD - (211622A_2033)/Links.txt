@@ -1,0 +1,3 @@
+https://www.statstutor.ac.uk/resources/uploaded/pearsons.pdf
+https://www.ncl.ac.uk/webtemplate/ask-assets/external/maths-resources/statistics/regression-and-correlation/simple-linear-regression.html
+https://www.geeksforgeeks.org/machine-learning/ml-linear-regression/
